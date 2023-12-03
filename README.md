@@ -53,5 +53,3 @@ or
 ```terminal
 npm run day-1-a
 ```
-
-> > > > > > > 6411968 (initial commit)
